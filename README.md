@@ -20,3 +20,15 @@ Create a public wiki site `anw.fed.wiki` then rsync json pages there.
 ```
 sh sync.sh
 ```
+
+# mechanics
+
+Both scrips adopt a strategy of scanning the text for markers, such as chapter and section headings, then processing the marker and the text found between them. 
+The `part.rb` script identifies markers as lines containing all uppercase letters and then uses case logic to customize subsequent handling.
+The `toc.rb` script increases the specificity of scans by looking for each of part, chapter and section in turn and then applying the more specific scan to only the text found between the outer markers.
+
+The nested structure of the markers is mirrored by the nested control flow in the `toc.rb` script.
+We define a function that divides the text based on a marker and then yields (callback) to the nested code that then further divides the yielded text.
+
+The nested control flow has worked well enough that were we to do this work again we would probably code one script that read the entire document using an even more deeply nested version of the same loops.
+We recognize that our initial manual division of the text into separate files of consistent format is just a crude and non-reproducable version of what we are now doing with the `divide` abstraction.
