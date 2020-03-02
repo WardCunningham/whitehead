@@ -1,0 +1,231 @@
+
+PREFACE 
+
+[v]* These lectures are based upon a recurrence to that phase of philo- 
+sophic thought which began with Descartes and ended with Hume. The 
+philosophic scheme which they endeavour to explain is termed the 'Phi- 
+losophy of Organism/ There is no doctrine put forward which cannot cite 
+in its defence some explicit statement of one of this group of thinkers, 
+or of one of the two founders of all Western thought, Plato and Aristotle. 
+But the philosophy of organism is apt to emphasize just those elements 
+in the writings of these masters which subsequent systematizers have put 
+aside. The writer who most fully anticipated the main positions of the 
+philosophy of organism is John Locke in his Essay, especially x in its later 
+books. 
+
+The lectures are divided into five parts. In the first part, the method is 
+explained, and thet scheme of ideas, in terms of which the cosmology is to 
+be framed, is stated summarily. 
+
+In the second part,* an endeavour is made to exhibit this scheme as ade- 
+quate for the interpretation of the ideas and problems which form the 
+complex texture of civilized thought. Apart from such an investigation the 
+summary statement of Part I is practically unintelligible. Thus Part II at 
+once gives meaning to the verbal phrases of the scheme by their use in 
+discussion, and shows the power of the scheme to put the various elements 
+of our experience into a consistent relation to each other. In order to ob- 
+tain a reasonably complete account of human experience considered in 
+relation to the philosophical [vi\ problems which naturally arise, the group 
+of philosophers and scientists belonging to the seventeenth and eighteenth 
+centuries has been considered, in particular Descartes, Newton, Locke, 
+Hume, Kant. Any one of these writers is one-sided in his presentation of 
+the groundwork of experience; but as a whole they give a general presenta- 
+tion which dominates the development of subsequent philosophy. I started 
+the investigation with the expectation of being occupied with the exposi- 
+tion of the divergencies from every member of this group. But a careful 
+examination of their exact statements disclosed that in the main the 
+philosophy of organism is a recurrence to pre-Kantian modes of thought. 
+These philosophers were perplexed by the inconsistent presuppositions 
+underlying their inherited modes of expression. In so far as they, or their 
+
+1 Cf. An Essay Concerning Human Understanding, Bk. IV, Ch. VI, Sect. 11.* 
+
+xi 
+
+
+
+xii Preface 
+
+successors, have endeavoured to be rigidly systematic, the tendency has 
+been to abandon just those elements in their thought upon which the 
+philosophy of organism bases itself. An endeavour has been made to point 
+out the exact points of agreement and of disagreement. 
+
+In the second part, the discussions of modern thought have been con- 
+fined to the most general notions of physics and biology, with a careful 
+avoidance of all detail. Also, it must be one of the motives of a complete 
+cosmology to construct a system of ideas which brings t the aesthetic, 
+moral, and religious interests into relation with those concepts of the 
+world which have their origin in natural science. 
+
+In the third and fourth parts, the cosmological scheme is developed in 
+terms of its own categoreal notions, and without much regard to other 
+systems of thought. For example, in Part II there is a chapter on the 
+'Extensive Continuum/ which is largely concerned with the notions of 
+Descartes and Newton, compared with the way in which the organic phi- 
+losophy must interpret this feature of the world. But in Part IV, this ques- 
+tion is treated from the point of view of developing the detailed method 
+[viz] in which the philosophy of organism establishes the theory of this 
+problem. It must be thoroughly understood that the theme of these lec- 
+tures is not a detached consideration of various traditional philosophical 
+problems which acquire urgency in certain traditional systems of thought. 
+The lectures are intended to state a condensed scheme of cosmological 
+ideas, to develop their meaning by confrontation with the various topics 
+of experience, and finally to elaborate an adequate cosmology in terms of 
+which all particular topics find theirt interconnections. Thus the unity 
+of treatment is to be looked for in the gradual development of the scheme, 
+in meaning and in relevance, and not in the successive treatment of par- 
+ticular topics. For example, the doctrines of time, of space, of perception, 
+and of causality are recurred to again and again, as the cosmology de- 
+velops. In each recurrence, these topics throw some new light on the 
+scheme, or receive some new elucidation. At the end, in so far as the enter- 
+prise has been successful, there should be no problem of space-time, or 
+of epistemology, or of causality, left over for discussion. The scheme should 
+have developed all those generic notions adequate for the expression of any 
+possible interconnection of things. 
+
+Among the contemporary schools of thought, my obligations to the 
+English and American Realists are obvious. In this connection, I should 
+like especially to mention Professor T. P. Nunn, of the University of 
+London. His anticipations, in the Proceedings of the Aristotelian Society, of 
+some of the doctrines of recent Realism, do not appear to be sufficiently 
+well known. 
+
+I am also greatly indebted to Bergson, William James, and John Dewey. 
+One of my preoccupations has been to rescue their type of thought from 
+the charge of anti-intellectualism, which rightly or wrongly has been asso- 
+ciated with it. Finally, though throughout the main body of the work I 
+
+
+
+Preface xiii 
+
+am in sharp disagreement with Bradley, the final outcome is after all not 
+so greatly different. I am particularly indebted to his chapter on the nature 
+[viii] of experience, which appears in his Essays on Truth and Reality. 
+His insistence on 'feeling' is very consonant with my own conclusions. 
+This whole metaphysical position is an implicit repudiation of the doctrine 
+of Vacuous actuality/ 
+
+The fifth part is concerned with the final interpretation of the ultimate 
+way in which the cosmological problem is to be conceived. It answers the 
+question, What does it all come to? In this part, the approximation to 
+Bradley is evident. Indeed, if this cosmology be deemed successful, it be- 
+comes natural at this point to ask whether the type of thought involved 
+be not a transformation of some main doctrines of Absolute Idealism onto 
+a realistic basis. 
+
+These lectures will be best understood by noting the following list of 
+prevalent habits of thought, which are repudiated, in so far as concerns 
+their influence on philosophy: 
+
+(i) The distrust of speculative philosophy. 
+
+(ii) The trust in language as an adequate expression of propositions. 
+
+(iii) The mode of philosophical thought which implies, and is implied 
+by, the faculty-psychology. 
+
+(iv) The subject-predicate form of expression. 
+
+(v) The sensationalist doctrine of perception. 
+
+(vi) The doctrine of vacuous actuality. 
+
+(vii) The Kantian doctrine of the objective world as a theoretical con- 
+struct from purely subjective experience. 
+
+(viii) Arbitrary deductions in ex absurdo arguments. 
+
+(ix) Belief that logical inconsistencies can indicate anything else than 
+some antecedent errors. 
+
+By reason of its ready acceptance of some, or all. of these nine myths 
+and fallacious procedures, much nineteenth-century philosophy excludes 
+itself from relevance to the ordinary stubborn facts of daily life. 
+
+The positive doctrine of these lectures is concerned with the becoming, 
+the being, and the relatedness of 'actual entities/ An "actual entity' is a 
+res vera in the [ix] Cartesian sense of that term; 2 it is a Cartesian 'sub- 
+stance/ and not an Aristotelian 'primary substance/ But Descartes re- 
+tained in his metaphysical doctrine the Aristotelian dominance of the 
+category of 'quality' over that of 'relatedness/ In these lectures 'relatedness' 
+is dominant over 'quality/ All relatedness has its foundation in the re- 
+latedness of actualities; and such relatedness is wholly concerned with the 
+appropriation of the dead by the living— that is to say, with 'objective im- 
+mortality' whereby what is divested of its own living immediacy becomes 
+
+2 1 derive my comprehension of this element in Descartes' thought from Pro- 
+fessor Gilson of the Sorbonne. I believe that he is the first to insist on its im- 
+portance. He is, of course, not responsible for the use made of the notion in 
+these lectures. 
+
+
+
+xiv Preface 
+
+a real component in other living immediacies of becoming. This is the 
+doctrine that the creative advance of the world is the becoming, the perish- 
+ing, and the objective immortalities of those things which jointly con- 
+stitute stubborn fact 
+
+The history of philosophy discloses two cosmologies which at different 
+periods have dominated European thought, Plato's Timaeus, 3 and the 
+cosmology of the seventeenth century, whose chief authors were Galileo, 
+Descartes, Newton, Locke. In attempting an enterprise of the same kind, 
+it is wise to follow the clue that perhaps the true solution consists in a 
+fusion of the two previous schemes, with modifications demanded by self- 
+consistency and the advance of knowledge. The cosmology explained in 
+these lectures has been framed in accordance with this reliance on the 
+positive value of the philosophical tradition. One test of success is ade- 
+quacy in the comprehension of the variety of experience within the limits 
+of one scheme of ideas. The endeavour to satisfy this condition is illus- 
+trated by comparing Chapters III, VII, and X of Part II, respectively 
+entitled The Order of Nature/ The Subjectivist Principle/ and Trocess/ 
+with Chapter [x] V of Part III, entitled The Higher Phases of Experience/ 
+and with Chapter V of Part IV, entitled 'Measurement/ and with Chap- 
+ter II of Part V. entitled 'God and thet World/ These chapters should 
+be recognizable as the legitimate outcome of the one scheme of ideas 
+stated in the second chapter of Part I. 
+
+In these lectures I have endeavoured to compress the material derived 
+from years of meditation. In putting out these results, four strong impres- 
+sions dominate my mind: First, that the movement of historical, and 
+philosophical, criticism of detached questions, which on the whole has 
+dominated the last two centuries, has done its work, and requires to be 
+supplemented by a more sustained effort of constructive thought. Sec- 
+ondly, that the true method of philosophical construction is to frame a 
+scheme of ideas, the best that one can, and unflinchingly to explore the 
+interpretation of experience in terms of that scheme. Thirdly, that all 
+constructive thought, on the various special topics of scientific interest, is 
+dominated by some such scheme, unacknowledged, but no less influential 
+in guiding the imagination. The importance of philosophy lies in its 
+sustained effort to make such schemes explicit, and thereby capable of 
+criticism and improvement. 
+
+There remains the final reflection, how shallow, puny, and imperfect are 
+efforts to sound the depths in the nature of things. In philosophical dis- 
+cussion, the merest hint of dogmatic certainty as to finality of statement 
+is an exhibition of folly. 
+
+In the expansion of these lectures to the dimensions of the present book, 
+
+3 1 regret that Professor A. E. Taylor's Commentary on Plato's Timaeus was 
+only published after this work was prepared for the press. Thus, with the excep- 
+tion of one small reference, no use could be made of it. I am very greatly in- 
+debted to Professor Taylor's other writings. 
+
+
+
+Preface xv 
+
+I have been greatly indebted to the critical difficulties suggested by the 
+members of my Harvard classes. Also this work would never have been 
+written without the constant encouragement and counsel which I owe to 
+my wife. 
+
+A. N. W. 
+Harvard University 
+January, 1929 
+
+

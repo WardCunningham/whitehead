@@ -1,0 +1,319 @@
+EDITORS' PREFACE 
+
+Process and Reality, Whitehead's magnum opus, is one of the major 
+philosophical works of the modern world, and an extensive body of sec- 
+ondary literature has developed around it. Yet surely no significant philo- 
+sophical book has appeared in the last two centuries in nearly so deplorable 
+a condition as has this one, with its many hundreds of errors and with 
+over three hundred discrepancies between the American (Macmillan) and 
+the English (Cambridge) editions, which appeared in different formats 
+with divergent paginations. The work itself is highly technical and far from 
+easy to understand, and in many passages the errors in those editions were 
+such as to compound the difficulties. The need for a corrected edition has 
+been keenly felt for many decades. 
+
+The principles to be used in deciding what sorts of corrections ought to 
+be introduced into a new edition of Process and Reality are not, however, 
+immediately obvious. Settling upon these principles requires that one take 
+into account the attitude toward book production exhibited by White- 
+head, the probable history of the production of this volume, and the two 
+original editions of the text as they compare with each other and with 
+other books by Whitehead. We will discuss these various factors to provide 
+background in terms of which the reader can understand the rationale for 
+the editorial decisions we have made. 
+
+Whitehead did not spend much of his own time on the routine tasks 
+associated with book production. Professor Raphael Demos was a young 
+colleague of Whitehead on the Harvard faculty at the time, 1925, of the 
+publication of Science and the Modern World. Demos worked over the 
+manuscript editorially, read the proofs, and did the Index for that volume. 
+The final sentence of Whitehead's Preface reads: "My most grateful 
+thanks are due to my colleague Mr. Raphael Demos for reading the proofs 
+and for the suggestion of many improvements in expression." After re- 
+tiring from Harvard in the early 1960's, Demos became for four years a 
+colleague at Vanderbilt University of Professor Sherburne and shared with 
+him his personal observations concerning Whitehead's indifference to the 
+production process. 
+
+Bertrand Russell x provides further evidence of Whitehead's sense of 
+priorities when he reports that Whitehead, in response to Russell's com- 
+
+1 Portraits from Memory (New York: Simon and Schuster, 1956), p. 104. 
+
+
+
+vi Editors' Preface 
+
+plaint that he had not answered a letter, "justified himself by saying that 
+if he answered letters, he would have no time for original work/' Russell 
+found this justification "complete and unanswerable/' 
+
+In 1929, when Process and Reality was in production, the same sense of 
+priorities was operative. Whitehead was sixty-eight years old, and he still 
+had major projects maturing in his mind: Adventures of Ideas, Modes of 
+Thought, and numerous articles and lectures were still to come. "Original 
+work," fortunately, continued to take precedence in his life over humdrum 
+details and trivia. Unfortunately, however, 1929 found Demos in England 
+(working with Russell). As best we can determine at this time, no one 
+with both a familiarity with Whitehead's thought and an eye for detail 
+undertook to shepherd Process and Reality through the production process 
+—Demos, in particular, was never aware that anyone else from the philo- 
+sophical community had worked on the manuscript or proofs. Whitehead's 
+only personal acknowledgment in the Preface is to "the constant encourage- 
+ment and counsel which I owe to my wife." 
+
+An examination of the available evidence, including the discrepancies 
+between the two original editions and the types of errors they contained, 
+has led us to the following reconstruction of the production process and of 
+the origin of some of the types of errors. 
+
+First, to some extent in conjunction with the preparation of his Gifford 
+Lectures and to some extent as an expansion and revision of them, 2 White- 
+head prepared a hand-written manuscript. Many of the errors in the final 
+product, such as incorrect references, misquoted poetry, other faulty quo- 
+tations, faulty and inconsistent punctuation, and some of the wrong and 
+missing words, surely originated at this stage and were due to Whitehead's 
+lack of attention to details. In addition, the inconsistencies in formal mat- 
+ters were undoubtedly due in part to the fact that the manuscript was 
+quite lengthy and was written over a period of at least a year and a half. 
+
+Second, a typist (possibly at Macmillan) prepared a typed copy for the 
+printer. The errors that crept into the manuscript at this stage seem to in- 
+clude, besides the usual sorts of typographical errors, misreadings of White- 
+head's somewhat difficult hand. 3 For example, the flourish initiating 
+Whitehead's capital "H" was sometimes transcribed as a "T," so that 
+"His" came out "This," and "Here" came out "There." Also, not only the 
+regular mistranscription of "Monadology" as "MonodoZogy," but also 
+other mistranscriptions, such as "transmuted" for "transmitted" and 
+"goal" for "goad," probably occurred at this stage. (Professor Victor Lowe 
+
+2 See Victor Lowe, "Whitehead's Gifford Lectures/' The Southern journal of 
+Philosophy, Vol. 1, No. 4 (Winter, 1969-70), 329-38. 
+
+3 For samples of his handwriting, see the letters published in Alfred North 
+Whitehead: Essays on His Philosophy, ed. George L. Kline (New York: Pren- 
+tice-Hall, 1963), p. 197; and The Philosophy of Alfred North Whitehead, ed. 
+Paul Arthur Schilpp, 2nd ed. (New York: Tudor Publishing, 1951), pp. 664- 
+65. 
+
+
+
+Editors' Preface vii 
+
+has reported an incident which, whether or not it involved a misreading of 
+Whitehead's handwriting, provided— as Lowe says— a bad omen for what 
+would happen to the book: "On April 11, 1928, Kemp Smith received this 
+cable from Whitehead: title gifford lectures is process and reality 
+
+SYLLOBUS FOLLOWING SHORTLY BY MAIL WHITCHCAD." 4 ) 
+
+Third, it appears that Macmillan set type first and that Cambridge set 
+its edition a bit later, using either a copy of the typed manuscript or, more 
+likely, a copy of Macmillan's proof sheets. There are a large number of 
+errors which the two editions had in common, a large number in the Mac- 
+millan edition which were not in the Cambridge edition, and some few in 
+the latter which were not in the former. Their distribution and their char- 
+acter suggest the following observations : Macmillan provided poor proof- 
+reading; the Cambridge editor did a much more rigorous job of catching 
+typographical errors; the Cambridge editor also initiated certain sorts of 
+editorial changes, which primarily involved punctuation, though these were 
+not consistently applied throughout the entire text; finally, the types of 
+errors unique to the Cambridge edition seem not to be due to carelessness, 
+but to deliberate attempts to make the text more intelligible— attempts 
+which fell short of their goal because the Cambridge editor did not under- 
+stand Whitehead's technical concepts. 
+
+There is independent evidence that Whitehead himself saw proofs. 
+Lowe has published a letter from Whitehead to his son, dated August 12, 
+1929, which reads in part: "At last I have got through with my Gifford 
+Lectures — final proofs corrected, Index Printed, and the last corrections 
+put in/' 5 The deplorable state of the text, plus Whitehead's lack of 
+enthusiasm for this sort of work, make it virtually certain that he did not 
+do much careful proofreading, Lowe reports 6 that Whitehead, after dis- 
+cussions with C. I. Lewis, decided to change the adjectival form of "cate- 
+gory" from "categorical" to "categoreal" and made this change throughout 
+the galleys. We strongly suspect that Whitehead's work on the proofs was 
+limited for the most part to very particular, specific corrections of this sort. 
+
+It would have been useful in the preparation of this corrected edition to 
+have had Whitehead's manuscript and/or typescript. Unfortunately, all 
+efforts to locate them have been unsuccessful— both are probably no longer 
+extant. We do have some corrections, additions, and marginalia which 
+Whitehead himself added to his Cambridge and Macmillan copies. In 
+addition there is a one-page list entitled "Misprints" (evidently given to 
+Whitehead by someone else) with an endorsement in Whitehead's hand- 
+writing: "Corrections all inserted." This data was given to us by Lowe, 
+who is writing the authorized biography of Whitehead and has been given 
+access to family materials, and to whom we express our deep appreciation. 
+
+4 Lowe, op. cii. y 334, fn. 14. 
+
+*Ibid., 338. 
+
+Q Ibid., fn. 19; as Lowe reports, he received this information from H. N. Lee. 
+
+
+
+viii Editors' Preface 
+
+Finally, in 1966 Lowe was allowed by Mrs. Henry Copley Greene to see a 
+typescript of Part V, which was inscribed: "Rosalind Greene with his love 
+From Alfred Whitehead Oct. 12, 1928." This typescript had some correc- 
+tions in Whitehead's hand on it; Lowe reports that, with one exception, 
+the published texts contained these corrections (e.g., the capitalization of 
+'Creature' and 'Itself' in the last paragraph). 
+
+It was on the basis of the above evidence and interpretations that we 
+arrived at the principles that guided our editorial work in regard to both 
+the more trivial and the more significant issues. 
+
+The most difficult and debatable editorial decisions had to be made, 
+ironically, concerning relatively trivial matters, especially those involving 
+punctuation. We tried to steer a middle course between two unacceptable 
+extremes. 
+
+On the one hand, the editors of a "corrected edition" might have intro- 
+duced into the text all the changes which they would have suggested to a 
+still-living author. The obvious problem with this alternative is that, since 
+the author is no longer living, he would have no chance to veto these "im- 
+provements" as being inconsistent with his own meaning or stylistic prefer- 
+ences. 
+
+On the other hand, to avoid this problem the editors might have decided 
+to remove only the most obvious and egregious errors, otherwise leaving 
+the text as it was. One problem with this alternative is that this important 
+work would again be published without benefit of the kind of careful edi- 
+torial work Whitehead had every right to expect— work which the Cam- 
+bridge editor began but did not carry out consistently. Another problem is 
+that there are over three hundred divergencies between the two original 
+editions. In these places it is impossible simply to leave the text as it was— 
+a choice must be made. And clearly, in most of these places the Cambridge 
+punctuation is preferable and must be followed— it would be totally irre- 
+sponsible to revert to Macmillan's punctuation. But once Cambridge's 
+punctuation has been followed in these places, the question arises, How 
+could one justify accepting Cambridge's improvements in these instances 
+and yet not make similar improvements in parallel passages? 
+
+Accordingly, in trying to steer a middle course between these two ex- 
+tremes we decided that the most responsible plan of action would be to 
+take the changes introduced bv the Cambridge editor (which, of course, 
+were made during Whitehead's life-time and could have been vetoed in his 
+personal copies) as precedents for the kinds of changes to be carried out 
+consistently. A prime example is provided by the fact that Cambridge 
+deleted many, but not all, of the commas which often appeared between 
+the subject and the verb in Macmillan. However, we left some other ques- 
+tionable practices (e.g., the frequent use of a semicolon where grammatical 
+rules would call for a comma) as they were, primarily because Cambridge 
+did not provide sufficient precedents for changes, even though we would 
+
+
+
+Editors' Preface ix 
+
+ourselves have suggested changes to Whitehead had we been editing this 
+book in 1929, 
+
+Working within these guidelines, the editors have sought to produce a 
+text that is free not only of the hundreds of blatant errors found in the 
+original, especially in the Macmillan edition, but also free of many of the 
+minor sorts of inconsistencies recognized and addressed to some extent by 
+the Cambridge editor. 
+
+It is in the matter of the more significant corrections involving word 
+changes that editors must guard against the possibility that interpretative 
+bias might lead to textual distortions. There were three factors which 
+helped us guard against this possibility. First, we drew heavily upon a sub- 
+stantial amount of previous work, coordinated by Sherburne, in which the 
+suggested corrigenda lists of six scholars were collated and then circulated 
+among eight scholars for opinions and observations. The publication of the 
+results of these discussions, 7 plus the lengthy discussions that preceded and 
+followed it, have established a consensus view about many items which 
+provided guidance. Second, in their own work the two editors approach 
+Whitehead's thought from different perspectives and focus their work 
+around different sorts of interests. Third, we used the principle that no 
+changes would be introduced into the text unless they were endorsed by 
+both editors. 
+
+We note, finally, that there can be no purely mechanical guidelines to 
+guarantee objectivity and prevent distortion. Ultimately, editors must rely 
+upon their own judgment, their knowledge of their texts, and their com- 
+mon sense. Recognizing this, we accept full responsibility for the decisions 
+we have made. 
+
+Besides the issues discussed above, there were other editorial decisions 
+to be made. There were substantial differences of format between the two 
+original editions. Cambridge had a detailed Table of Contents at the be- 
+ginning of the book, whereas Macmillan had only a brief listing of major 
+divisions at the beginning with the detailed materials spread throughout 
+the book as "Abstracts" prior to each of the five major Parts of the volume. 
+Primarily because it is a nuisance to locate the various sections of this 
+analytic Table of Contents in Macmillan, we have followed Cambridge in 
+this matter. We have also followed the Cambridge edition in setting off 
+some quotations and have let it guide us in regard to the question as to 
+which quotations to set off (the Macmillan edition did not even set off 
+page-length items). 
+
+Since most of the secondary literature on Process and Reality gives page 
+references to the Macmillan edition, we considered very seriously the pos- 
+sibility of retaining its pagination in this new edition. For several technical 
+
+7 Donald W, Sherburne, "Corrigenda for Process and Reality" in Kline, ed., 
+op. cit, pp. 200-207. 
+
+
+
+x Editors' Preface 
+
+reasons this proved impractical. Consequently, we have inserted in this 
+text, in brackets, the page numbers of the Macmillan edition, except in the 
+Table of Contents. 
+
+In regard to certain minor differences between the texts, some of which 
+reflect American vs. British conventions, we have followed Macmillan. 
+Examples are putting periods and commas inside the quotation marks, 
+numbering the footnotes consecutively within each chapter rather than on 
+each page, and writing "Section" instead of using the symbol "$." 
+
+Except for those matters, which simply reflect different conventions, we 
+have left a record of all of the changes which we have made. That is, in the 
+Editors' Notes at the back of the book we have indicated all the diver- 
+gencies (or, in a few cases, types of divergencies) from both original edi- 
+tions, no matter how trivial, thereby giving interested scholars access to 
+both previous readings through this corrected edition. We have indicated 
+in the text, by means of single and double obelisks ( f and i ) , the places 
+where these divergencies occur. The more exact meaning of these symbols, 
+plus that of the single and double asterisks, is explained in the introductory 
+statement to the Editors' Notes. 
+
+The original editions had woefully inadequate Indexes. For this volume, 
+Griffin has prepared a totally new, enormously expanded Index. Sincere 
+thanks are due to Professor Marjorie Suchocki, who correlated the Index 
+items to the pagination in this new edition, and to Professor Bernard M. 
+Loomer, who many years ago prepared an expanded Index which was made 
+available to other scholars. 
+
+One other edition of Process and Reality has appeared which has not yet 
+been mentioned. In 1969, The Free Press published a paperback edition. 
+It should in no way be confused with the present corrected edition, pub- 
+lished by the same company. The 1969 edition did not incorporate the 
+corrigenda which had been published by Sherburne; it added some new- 
+errors of its own; it introduced yet another pagination without indicating 
+the previous standard pagination; and it did not contain a new Index. We 
+wish to commend The Free Press for now publishing this corrected edition. 
+
+We acknowledge most gratefully the support of the Vanderbilt Uni- 
+versity Research Council, which provided Sherburne with travel funds and 
+released time to work on this project. We are also deeply indebted to the 
+Center for Process Studies, which has supported this project extensively, 
+and in turn to both the Claremont Graduate School and the School of 
+Theology at Claremont, which give support to the Center. Finally, we 
+express our warm appreciation to Rebecca Parker Beyer, who was a great 
+help in comparing texts and reading proofs. 
+
+David Ray Griffin 
+Center for Process Studies 
+
+Donald W. Sherburne 
+Vanderbilt University 
+
+
