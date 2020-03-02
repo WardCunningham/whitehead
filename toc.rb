@@ -1,5 +1,6 @@
-# translate parts i through v
-# usage: ruby parts.rb
+# translate table of contents
+# usage: ruby toc.rb
+
 require 'json'
 
 @now = Time.now.to_i*1000
