@@ -32,3 +32,7 @@ We define a function that divides the text based on a marker and then yields (ca
 
 The nested control flow has worked well enough that were we to do this work again we would probably code one script that read the entire document using an even more deeply nested version of the same loops.
 We recognize that our initial manual division of the text into separate files of consistent format is just a crude and non-reproducable version of what we are now doing with the `divide` abstraction.
+
+One unexpected improvement of our `divide` mechanism involves the handling of a small fragment of text before the first instance of a marker.
+The author uses these words to establish the goals or context of what follows.
+We handle this separately from the yielded text by passing into `divide` the parent and grand-parent pages that are not quite complete until these words have been added to them.
